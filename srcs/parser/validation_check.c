@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   validation_check.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dcloud <marvin@42.fr>                       +#+  +:+       +#+        */
+/*   By: dcloud <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/05 06:09:00 by dcloud            #+#    #+#             */
 /*   Updated: 2022/07/05 06:09:01 by dcloud           ###   ########.fr       */
